@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">MyCity</string>
-    <string name="gmap_key">AIzaSyDWxxl_SQnHXNZG6MNxD6hyowSvuvjBHiE</string>
+    <string name="gmap_key">YOUR_API_KEY</string>
 </resources>
